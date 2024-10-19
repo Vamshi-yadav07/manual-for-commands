@@ -1,6 +1,8 @@
 git init
 git remote add origin url
 git add -A
+git config --global user.email "sripathivamshiyadav@gmail.com"
+git config --global user.name "vamshi"
   git commit -m 'message'
   git branch -M main
 git push -u origin main
